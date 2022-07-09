@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyndonnegatpandan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php and python
+- 🌱 I’m currently learning java
 - 📫 How to reach me lyndonnegatpandan@gmail.com
 <!---
 lyndonnegatpandan/lyndonnegatpandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
